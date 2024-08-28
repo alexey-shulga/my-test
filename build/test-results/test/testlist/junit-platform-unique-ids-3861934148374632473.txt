@@ -1,0 +1,7 @@
+[engine:junit-jupiter]/[class:example.micronaut.DefaultTest]/[method:testItWorks()]
+[engine:junit-jupiter]/[class:example.micronaut.PersonaControllerTest]/[method:supplyAnInvalidOrderTriggersValidationFailure()]
+[engine:junit-jupiter]/[class:example.micronaut.PersonaControllerTest]/[method:testFindNonExistingPersonaReturns404()]
+[engine:junit-jupiter]/[class:example.micronaut.PersonaRepositoryImplTest]/[method:constraintsAreValidatedForFindAll()]
+[engine:junit-jupiter]/[class:example.micronaut.PersonaRepositoryImplTest]/[method:constraintsAreValidatedForSave()]
+[engine:junit-jupiter]/[class:example.micronaut.PersonaRepositoryImplTest]/[method:constraintsAreValidatedForUpdateNameIsBlank()]
+[engine:junit-jupiter]/[class:example.micronaut.PersonaRepositoryImplTest]/[method:constraintsAreValidatedForUpdateNameIsNull()]

@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+Class-Path: resources/ classes/ libs/micronaut-flyway-7.3.0.jar libs/mic
+ ronaut-serde-jackson-2.10.2.jar libs/micronaut-jdbc-hikari-5.7.0.jar li
+ bs/micronaut-validation-4.6.1.jar libs/jakarta.validation-api-3.1.0.jar
+  libs/mybatis-3.5.10.jar libs/micronaut-jdbc-5.7.0.jar libs/micronaut-s
+ erde-support-2.10.2.jar libs/micronaut-serde-api-2.10.2.jar libs/micron
+ aut-reactor-3.4.1.jar libs/micronaut-http-client-4.5.4.jar libs/microna
+ ut-websocket-4.5.4.jar libs/micronaut-http-server-netty-4.5.4.jar libs/
+ micronaut-http-netty-4.5.4.jar libs/micronaut-http-server-4.5.4.jar lib
+ s/micronaut-management-4.5.4.jar libs/micronaut-router-4.5.4.jar libs/m
+ icronaut-jackson-core-4.5.4.jar libs/micronaut-json-core-4.5.4.jar libs
+ /micronaut-http-4.5.4.jar libs/micronaut-discovery-core-4.5.4.jar libs/
+ micronaut-context-propagation-4.5.4.jar libs/micronaut-context-4.5.4.ja
+ r libs/micronaut-aop-4.5.4.jar libs/micronaut-buffer-netty-4.5.4.jar li
+ bs/micronaut-inject-4.5.4.jar libs/logback-classic-1.5.3.jar libs/postg
+ resql-42.7.3.jar libs/flyway-core-10.13.0.jar libs/jackson-dataformat-t
+ oml-2.17.2.jar libs/jackson-databind-2.17.2.jar libs/jackson-annotation
+ s-2.17.2.jar libs/jackson-core-2.17.2.jar libs/jakarta.annotation-api-2
+ .1.1.jar libs/netty-handler-proxy-4.1.111.Final.jar libs/netty-codec-ht
+ tp2-4.1.111.Final.jar libs/netty-codec-http-4.1.111.Final.jar libs/nett
+ y-codec-socks-4.1.111.Final.jar libs/netty-handler-4.1.111.Final.jar li
+ bs/netty-codec-4.1.111.Final.jar libs/netty-transport-native-unix-commo
+ n-4.1.111.Final.jar libs/netty-transport-4.1.111.Final.jar libs/netty-b
+ uffer-4.1.111.Final.jar libs/netty-resolver-4.1.111.Final.jar libs/nett
+ y-common-4.1.111.Final.jar libs/micronaut-http-client-core-4.5.4.jar li
+ bs/reactor-core-3.6.8.jar libs/micronaut-core-reactive-4.5.4.jar libs/r
+ eactive-streams-1.0.4.jar libs/micronaut-core-4.5.4.jar libs/logback-co
+ re-1.5.3.jar libs/HikariCP-5.1.0.jar libs/slf4j-api-2.0.13.jar libs/jak
+ arta.inject-api-2.0.1.jar libs/checker-qual-3.42.0.jar libs/gson-2.10.1
+ .jar
+Main-Class: example.micronaut.Application
+

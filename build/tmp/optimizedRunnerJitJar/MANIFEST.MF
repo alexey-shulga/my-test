@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+Main-Class: example.micronaut.Application
+Class-Path: libs/micronaut-flyway-7.3.0.jar libs/micronaut-serde-jackson
+ -2.10.2.jar libs/micronaut-jdbc-hikari-5.7.0.jar libs/micronaut-validat
+ ion-4.6.1.jar libs/jakarta.validation-api-3.1.0.jar libs/mybatis-3.5.10
+ .jar libs/micronaut-jdbc-5.7.0.jar libs/micronaut-serde-support-2.10.2.
+ jar libs/micronaut-serde-api-2.10.2.jar libs/micronaut-reactor-3.4.1.ja
+ r libs/micronaut-http-client-4.5.4.jar libs/micronaut-websocket-4.5.4.j
+ ar libs/micronaut-http-server-netty-4.5.4.jar libs/micronaut-http-netty
+ -4.5.4.jar libs/micronaut-http-server-4.5.4.jar libs/micronaut-manageme
+ nt-4.5.4.jar libs/micronaut-router-4.5.4.jar libs/micronaut-jackson-cor
+ e-4.5.4.jar libs/micronaut-json-core-4.5.4.jar libs/micronaut-http-4.5.
+ 4.jar libs/micronaut-discovery-core-4.5.4.jar libs/micronaut-context-pr
+ opagation-4.5.4.jar libs/micronaut-context-4.5.4.jar libs/micronaut-aop
+ -4.5.4.jar libs/micronaut-buffer-netty-4.5.4.jar libs/micronaut-inject-
+ 4.5.4.jar libs/logback-classic-1.5.3.jar libs/postgresql-42.7.3.jar lib
+ s/flyway-core-10.13.0.jar libs/jackson-dataformat-toml-2.17.2.jar libs/
+ jackson-databind-2.17.2.jar libs/jackson-annotations-2.17.2.jar libs/ja
+ ckson-core-2.17.2.jar libs/jakarta.annotation-api-2.1.1.jar libs/netty-
+ handler-proxy-4.1.111.Final.jar libs/netty-codec-http2-4.1.111.Final.ja
+ r libs/netty-codec-http-4.1.111.Final.jar libs/netty-codec-socks-4.1.11
+ 1.Final.jar libs/netty-handler-4.1.111.Final.jar libs/netty-codec-4.1.1
+ 11.Final.jar libs/netty-transport-native-unix-common-4.1.111.Final.jar 
+ libs/netty-transport-4.1.111.Final.jar libs/netty-buffer-4.1.111.Final.
+ jar libs/netty-resolver-4.1.111.Final.jar libs/netty-common-4.1.111.Fin
+ al.jar libs/micronaut-http-client-core-4.5.4.jar libs/reactor-core-3.6.
+ 8.jar libs/micronaut-core-reactive-4.5.4.jar libs/reactive-streams-1.0.
+ 4.jar libs/micronaut-core-4.5.4.jar libs/logback-core-1.5.3.jar libs/Hi
+ kariCP-5.1.0.jar libs/slf4j-api-2.0.13.jar libs/jakarta.inject-api-2.0.
+ 1.jar libs/checker-qual-3.42.0.jar libs/gson-2.10.1.jar resources/ clas
+ ses/
+

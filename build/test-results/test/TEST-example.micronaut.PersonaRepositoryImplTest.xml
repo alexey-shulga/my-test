@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="example.micronaut.PersonaRepositoryImplTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-08-28T10:49:55" hostname="DESKTOP-P7493P2" time="0.129">
+  <properties/>
+  <testcase name="constraintsAreValidatedForFindAll()" classname="example.micronaut.PersonaRepositoryImplTest" time="0.109"/>
+  <testcase name="constraintsAreValidatedForSave()" classname="example.micronaut.PersonaRepositoryImplTest" time="0.002"/>
+  <testcase name="constraintsAreValidatedForUpdateNameIsBlank()" classname="example.micronaut.PersonaRepositoryImplTest" time="0.002"/>
+  <testcase name="constraintsAreValidatedForUpdateNameIsNull()" classname="example.micronaut.PersonaRepositoryImplTest" time="0.002"/>
+  <system-out><![CDATA[?[36m13:49:55.656?[0;39m ?[1;30m[Test worker]?[0;39m ?[34mINFO ?[0;39m ?[35mi.m.c.DefaultApplicationContext$RuntimeConfiguredEnvironment?[0;39m - Established active environments: [test]
+?[36m13:49:55.683?[0;39m ?[1;30m[Test worker]?[0;39m ?[34mINFO ?[0;39m ?[35mcom.zaxxer.hikari.HikariDataSource?[0;39m - HikariPool-3 - Starting...
+?[36m13:49:55.775?[0;39m ?[1;30m[Test worker]?[0;39m ?[34mINFO ?[0;39m ?[35mcom.zaxxer.hikari.pool.HikariPool?[0;39m - HikariPool-3 - Added connection org.postgresql.jdbc.PgConnection@27abb6ca
+?[36m13:49:55.775?[0;39m ?[1;30m[Test worker]?[0;39m ?[34mINFO ?[0;39m ?[35mcom.zaxxer.hikari.HikariDataSource?[0;39m - HikariPool-3 - Start completed.
+?[36m13:49:56.085?[0;39m ?[1;30m[Test worker]?[0;39m ?[34mINFO ?[0;39m ?[35mcom.zaxxer.hikari.HikariDataSource?[0;39m - HikariPool-3 - Shutdown initiated...
+?[36m13:49:56.165?[0;39m ?[1;30m[Test worker]?[0;39m ?[34mINFO ?[0;39m ?[35mcom.zaxxer.hikari.HikariDataSource?[0;39m - HikariPool-3 - Shutdown completed.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

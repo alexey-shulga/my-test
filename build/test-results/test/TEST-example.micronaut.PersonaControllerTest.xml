@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="example.micronaut.PersonaControllerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-08-28T10:49:54" hostname="DESKTOP-P7493P2" time="1.194">
+  <properties/>
+  <testcase name="supplyAnInvalidOrderTriggersValidationFailure()" classname="example.micronaut.PersonaControllerTest" time="1.112"/>
+  <testcase name="testFindNonExistingPersonaReturns404()" classname="example.micronaut.PersonaControllerTest" time="0.08"/>
+  <system-out><![CDATA[?[36m13:49:54.169?[0;39m ?[1;30m[Test worker]?[0;39m ?[34mINFO ?[0;39m ?[35mi.m.c.DefaultApplicationContext$RuntimeConfiguredEnvironment?[0;39m - Established active environments: [test]
+?[36m13:49:54.196?[0;39m ?[1;30m[Test worker]?[0;39m ?[34mINFO ?[0;39m ?[35mcom.zaxxer.hikari.HikariDataSource?[0;39m - HikariPool-2 - Starting...
+?[36m13:49:54.270?[0;39m ?[1;30m[Test worker]?[0;39m ?[34mINFO ?[0;39m ?[35mcom.zaxxer.hikari.pool.HikariPool?[0;39m - HikariPool-2 - Added connection org.postgresql.jdbc.PgConnection@61bfc9bf
+?[36m13:49:54.270?[0;39m ?[1;30m[Test worker]?[0;39m ?[34mINFO ?[0;39m ?[35mcom.zaxxer.hikari.HikariDataSource?[0;39m - HikariPool-2 - Start completed.
+?[36m13:49:55.591?[0;39m ?[1;30m[Test worker]?[0;39m ?[34mINFO ?[0;39m ?[35mcom.zaxxer.hikari.HikariDataSource?[0;39m - HikariPool-2 - Shutdown initiated...
+?[36m13:49:55.597?[0;39m ?[1;30m[Test worker]?[0;39m ?[34mINFO ?[0;39m ?[35mcom.zaxxer.hikari.HikariDataSource?[0;39m - HikariPool-2 - Shutdown completed.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

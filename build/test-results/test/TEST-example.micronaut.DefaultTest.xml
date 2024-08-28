@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="example.micronaut.DefaultTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-28T10:49:54" hostname="DESKTOP-P7493P2" time="0.026">
+  <properties/>
+  <testcase name="testItWorks()" classname="example.micronaut.DefaultTest" time="0.026"/>
+  <system-out><![CDATA[?[36m13:49:52.612?[0;39m ?[1;30m[Test worker]?[0;39m ?[34mINFO ?[0;39m ?[35mi.m.c.DefaultApplicationContext$RuntimeConfiguredEnvironment?[0;39m - Established active environments: [test]
+?[36m13:49:52.802?[0;39m ?[1;30m[Test worker]?[0;39m ?[34mINFO ?[0;39m ?[35mcom.zaxxer.hikari.HikariDataSource?[0;39m - HikariPool-1 - Starting...
+?[36m13:49:53.078?[0;39m ?[1;30m[Test worker]?[0;39m ?[34mINFO ?[0;39m ?[35mcom.zaxxer.hikari.pool.HikariPool?[0;39m - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@2b0b4d53
+?[36m13:49:53.081?[0;39m ?[1;30m[Test worker]?[0;39m ?[34mINFO ?[0;39m ?[35mcom.zaxxer.hikari.HikariDataSource?[0;39m - HikariPool-1 - Start completed.
+?[36m13:49:54.065?[0;39m ?[1;30m[Test worker]?[0;39m ?[34mINFO ?[0;39m ?[35mcom.zaxxer.hikari.HikariDataSource?[0;39m - HikariPool-1 - Shutdown initiated...
+?[36m13:49:54.102?[0;39m ?[1;30m[Test worker]?[0;39m ?[34mINFO ?[0;39m ?[35mcom.zaxxer.hikari.HikariDataSource?[0;39m - HikariPool-1 - Shutdown completed.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
